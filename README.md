@@ -1,6 +1,6 @@
 ## 👨🏽‍💻 Processo de desenvolvimento
 
-O processo de desenvolvimento foi orgânico pois estava bem dividido e quando necessário ajudávamos um ao outro. O [Felipe](https://github.com/Muratawga) junto ao [Vitor](https://github.com/vit0rr) ficaram responsáveis pelo Front-End do site. A divisão ficou com Murata estilizando do site em CSS e Bootstrap, enquanto o Vitor com o JavaScript desenvolvia as funcionalidades de dinamizar as telas e das funções de capturar e tratar os inputs inseridos pelo usuário. No final, tudo é enviado para o Back-End, que foi desenvolvido pelo [Pedro](https://github.com/dgtyPedro) onde é gerado um relatório dos dados do usuário e enviado em seguida por email.
+O processo de desenvolvimento foi orgânico pois estava bem dividido e quando necessário ajudávamos um ao outro. O [Felipe](https://github.com/Muratawga) junto ao [Vitor](https://github.com/vit0rr) ficaram responsáveis pelo Front-End do site. A divisão ficou com Murata estilizando o site em CSS e Bootstrap, enquanto o Vitor com o JavaScript desenvolvia as funcionalidades de dinamizar as telas e das funções de capturar e tratar os inputs inseridos pelo usuário. No final, tudo é enviado para o Back-End, que foi desenvolvido pelo [Pedro](https://github.com/dgtyPedro) onde é gerado um relatório dos dados do usuário e enviado em seguida por email.
 
 ## 🐱‍🏍 Como funciona tecnicamente o projeto?
 
