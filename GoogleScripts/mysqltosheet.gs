@@ -1,8 +1,8 @@
-var server = "mysql743.umbler.com";
-var port = "41890";
-var dbName = "dataarqmm";
-var username = "adima";
-var password = "3278Data";
+var server = "databaselink";
+var port = "8080";
+var dbName = "username";
+var username = "password";
+var password = "mydatabase";
 
 
 function readData() {
@@ -10,7 +10,7 @@ function readData() {
   Logger.log(url)
   var conn = Jdbc.getConnection(url, username, password); 
   var stmt = conn.createStatement();
-  var results = stmt.executeQuery("SELECT * FROM database_send");
+  var results = stmt.executeQuery("SELECT * FROM mydatabase");
   var metaData=results.getMetaData();
   var numCols = metaData.getColumnCount();
   var spreadsheet = SpreadsheetApp.getActive();
