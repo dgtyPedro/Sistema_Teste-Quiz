@@ -25,3 +25,9 @@ O que desenvolvemos para Musa da Mente foi um teste de personalidade. O usuário
  - Enviar esses dados a Base de dados MySQL
 
 Por sua vez, essa base de dados armazena o *horário*, *email* e *pontuação* do usuário. Todas essas informações são redirecionadas ao script criado no Apps Script da Google, esse script é o responsável pelo envio dos resultados aos clientes.
+
+## Imagens: 
+
+![image](https://user-images.githubusercontent.com/54332151/134220895-fd5fcf64-5b2b-4478-9142-8544ea40af34.png)
+
+![image](https://user-images.githubusercontent.com/54332151/134221115-3f8a2389-8cc3-4fdb-9427-920c00835e63.png)
